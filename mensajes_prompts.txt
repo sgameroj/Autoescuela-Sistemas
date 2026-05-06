@@ -10,3 +10,7 @@ PROMPT 2: Creación del banco de preguntas
 PROMPT 3: Creación de los componentes visuales
 ------------------------------------------------------------------------
 "Revisa las reglas técnicas en memory-bank/systemPatterns.md. Necesito que crees el archivo components.js. Debe contener funciones puras que reciban datos y devuelvan strings de HTML. Crea al menos los siguientes componentes modulares: una pantalla de bienvenida (createWelcomeScreen), la tarjeta del test (createQuestionCard) y el panel de resultados (createResultsPanel)."
+
+PROMPT 4: Creación de la lógica principal y orquestación
+------------------------------------------------------------------------
+"Siguiendo estrictamente la arquitectura definida en memory-bank/systemPatterns.md, crea el archivo app.js. Este archivo debe tener un estado centralizado, manejar los eventos usando event delegation sobre un contenedor principal, y encargarse de orquestar la aplicación llamando a las funciones puras de components.js. Actualiza memory-bank/progress.md cuando termines."

@@ -14,3 +14,7 @@ PROMPT 3: Creación de los componentes visuales
 PROMPT 4: Creación de la lógica principal y orquestación
 ------------------------------------------------------------------------
 "Siguiendo estrictamente la arquitectura definida en memory-bank/systemPatterns.md, crea el archivo app.js. Este archivo debe tener un estado centralizado, manejar los eventos usando event delegation sobre un contenedor principal, y encargarse de orquestar la aplicación llamando a las funciones puras de components.js. Actualiza memory-bank/progress.md cuando termines."
+
+PROMPT 5: Estilos y estructura principal
+------------------------------------------------------------------------
+"Para finalizar la interfaz, crea el archivo index.html que cargue los scripts en el orden correcto y proporcione el contenedor principal. Además, crea el archivo style.css aplicando un diseño moderno, con tema oscuro, efecto glassmorphism y colores neón (verde para aciertos, rojo para fallos), adecuado para la temática técnica descrita en el Memory Bank."

@@ -18,3 +18,7 @@ PROMPT 4: Creación de la lógica principal y orquestación
 PROMPT 5: Estilos y estructura principal
 ------------------------------------------------------------------------
 "Para finalizar la interfaz, crea el archivo index.html que cargue los scripts en el orden correcto y proporcione el contenedor principal. Además, crea el archivo style.css aplicando un diseño moderno, con tema oscuro, efecto glassmorphism y colores neón (verde para aciertos, rojo para fallos), adecuado para la temática técnica descrita en el Memory Bank."
+
+PROMPT 6: Cracion de README.md
+------------------------------------------------------------------------
+"Completa el readme con los datos y archivos de main, ayudate de inicial.md para explicar de que trata el proyecto y el objetivo"

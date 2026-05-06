@@ -6,3 +6,7 @@ PROMPT 1: Creación del Memory Bank
 PROMPT 2: Creación del banco de preguntas
 ------------------------------------------------------------------------
 "Basándote en la visión del proyecto en memory-bank/productContext.md, crea el archivo questions.js. Debe contener un array de objetos con al menos 25 preguntas de opción múltiple, divididas en 5 categorías clave de la asignatura: comandos Windows, comandos Linux, hardware, redes IP y contenedores. Solo exporta los datos, sin lógica."
+
+PROMPT 3: Creación de los componentes visuales
+------------------------------------------------------------------------
+"Revisa las reglas técnicas en memory-bank/systemPatterns.md. Necesito que crees el archivo components.js. Debe contener funciones puras que reciban datos y devuelvan strings de HTML. Crea al menos los siguientes componentes modulares: una pantalla de bienvenida (createWelcomeScreen), la tarjeta del test (createQuestionCard) y el panel de resultados (createResultsPanel)."
